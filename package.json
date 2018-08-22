@@ -8,13 +8,13 @@
   },
   "author": "Giovanni Pires da Silva <giovanni.pires@equipe.ezoom.com.br> (http://www.ezoom.com.br/)",
   "license": "GPL-3.0-or-later",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "@angular/core": "^6.1.3",
     "moment": "^2.22.2",
     "rxjs": "^6.2.2",
     "zone.js": "^0.8.26"
   },
-  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/agenciaezoom/ionic.git"
